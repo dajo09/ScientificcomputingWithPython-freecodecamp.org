@@ -1,4 +1,6 @@
 ## ScientificcomputingWithPython-freecodecamp.org
+**[view Course Certificate](https://www.freecodecamp.org/certification/dajo/scientific-computing-with-python-v7)**
+
 link to all the projects built as part of Python Certification:
 - [arithmetic formatter](https://replit.com/@DaJo/GoldenrodDeliciousEmacs-1)
 
@@ -20,7 +22,7 @@ link to all the projects built as part of Python Certification:
 
 <img width="476" alt="prob calc" src="https://github.com/dajo09/ScientificcomputingWithPython-freecodecamp.org/assets/33592524/d65dc3d1-1de0-44c4-ba28-cd6d3e6bbbc4">
 
-**[view Course Certificate](https://www.freecodecamp.org/certification/dajo/scientific-computing-with-python-v7)**
+
 
 
   
