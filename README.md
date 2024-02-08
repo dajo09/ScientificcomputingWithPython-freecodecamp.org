@@ -10,7 +10,7 @@ link to most of the projects built as part of certification:
 
 - [probability calculator](https://replit.com/@DaJo/fcc-probability-calculator#main.py)
 
-  <img width="476" alt="prob calc" src="https://github.com/dajo09/ScientificcomputingWithPython-freecodecamp.org/assets/33592524/d65dc3d1-1de0-44c4-ba28-cd6d3e6bbbc4">
+<img width="476" alt="prob calc" src="https://github.com/dajo09/ScientificcomputingWithPython-freecodecamp.org/assets/33592524/d65dc3d1-1de0-44c4-ba28-cd6d3e6bbbc4">
 
 **[view Course Certificate](https://www.freecodecamp.org/certification/dajo/scientific-computing-with-python-v7)**
 
